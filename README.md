@@ -115,7 +115,14 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ## Kiel - Program for LED blinking ON  and  OFF (blinking)
 
-## Output screen shots :
+## Output :
+## Before Blinking:
+![Screenshot (2)](https://user-images.githubusercontent.com/94828147/196032158-54e475b1-937f-4b35-9f5a-aeecc8873287.png)
+
+
+## Ater Blinking:
+![Screenshot (3)](https://user-images.githubusercontent.com/94828147/196032185-cb76232d-3e54-49d2-9aae-5fdb5490b2e8.png)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
